@@ -10,6 +10,6 @@ module.exports = app => {
   // POST routes /api/friends
   app.post('/api/friends', (req, res) => {
     // Grab the user's results to compare with other users
-    let userResults = req.body.scores
+    let newUser = req.body.scores
   })
 }

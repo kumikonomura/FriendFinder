@@ -1,8 +1,5 @@
-// Click 'go to survey' button and take me to survey pag
-
-// Click submit and show me my friend match
-
 // Convert each user's results into an array of numbers
+let userResults = []
 
 // Compare difference between current user's scores against the other users
 // questions by questions.
@@ -16,5 +13,6 @@
 // Once you've found the current user's compatible friend, display the
 // result as a modal pop-up
 
-// The modal should display both the name and picture of the closest match
+// Click submit and show me my friend match
 
+// The modal should display both the name and picture of the closest match
