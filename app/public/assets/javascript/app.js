@@ -16,3 +16,5 @@ let userResults = []
 // Click submit and show me my friend match
 
 // The modal should display both the name and picture of the closest match
+
+
